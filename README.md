@@ -1,4 +1,4 @@
-# CASFTM
+# CASFM
 multi-languege code-base analizer for debugging.
 
 this is a code-base analizer.
